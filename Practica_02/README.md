@@ -15,7 +15,7 @@ Aplicar el manejo de entradas y salidas digitales (GPIO) para diseñar un semáf
 ![Diagrama de conexión](./diagrama.png)
 
 **🔗 Enlace a la simulación en Wokwi:**
-[Haz clic aquí para ver y correr la simulación](https://wokwi.com/projects/300504213470839309)
+[Haz clic aquí para ver y correr la simulación](https://wokwi.com/projects/297322571959894536)
 
 ## 💻 Código y Explicación
 
@@ -121,7 +121,7 @@ int main() {
 Usamos el Pico SDK, incluyendo `pico/stdlib.h`. A diferencia de Python, aquí requerimos dos pasos por pin: `gpio_init()` para habilitarlo y `gpio_set_dir()` para establecer si es entrada o salida. Usamos `gpio_get()` para leer el estado del botón y la función `sleep_ms()` para manejar los tiempos de bloqueo del semáforo.
 
 ## 🎥 Evidencia en Video
-[▶️ Ver demostración en video del semáforo aquí](https://youtube.com/tu_enlace_aqui)
+[▶️ Ver demostración en video del semáforo aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 🤔 Conclusiones o Retos Superados
 Al inicio el botón registraba múltiples pulsaciones seguidas (efecto rebote o *bouncing*). Comprendí que incluir el retardo general de `100 ms` al final del bucle principal ayuda a mitigar las lecturas falsas. Además, configurar el entorno CMake para C++ fue más complejo que simplemente darle "Play" en Thonny, pero me ayudó a entender el proceso de compilación de la tarjeta.
