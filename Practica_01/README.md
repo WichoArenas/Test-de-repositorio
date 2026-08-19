@@ -12,26 +12,24 @@
 ![Diagrama de conexión](./diagrama.png)
 
 **🔗 Enlace a la simulación en Wokwi:**
-[Haz clic aquí para ver y correr la simulación](https://wokwi.com/tu_enlace_aqui)
+[Haz clic aquí para ver y correr la simulación](https://wokwi.com/projects/300504213470839309)
 
-## 💻 Código y Explicación
+## 💻 Códigos Fuente y Explicación
 
-### MicroPython (`main.py`)
-```python
-# Pega tu código de MicroPython aquí
-```
+### 🐍 MicroPython
+📄 **Código fuente:** [Ver archivo `main.py` aquí](./main.py)
+
 **Explicación de la lógica en Python:**
 [Explica brevemente cómo configuraste los pines, qué hace el bucle principal y cómo resolviste el problema].
 
-### C/C++ (`main.c`)
-```c
-// Pega tu código de C/C++ aquí (Pico SDK)
-```
+### ⚙️ C/C++ (Pico SDK)
+📄 **Código fuente:** [Ver archivo `main.c` aquí](./main.c)
+
 **Explicación de la lógica en C/C++:**
 [Explica las funciones del SDK que usaste, como `gpio_init()`, y cómo se estructuró el código].
 
 ## 🎥 Evidencia en Video
-[▶️ Ver demostración en video aquí](https://tu_enlace_de_video_aqui)
+[▶️ Ver demostración en video aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 🤔 Conclusiones o Retos Superados
 [Reflexiona sobre qué te costó trabajo, errores de compilación o de lógica, y cómo los solucionaste].
