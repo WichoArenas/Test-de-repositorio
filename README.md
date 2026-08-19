@@ -14,7 +14,7 @@ Este repositorio contiene todas las prácticas, retos y evidencias desarrolladas
 
 | Sesión | Tema | Lenguaje(s) | Enlace a la Práctica |
 | :---: | :--- | :---: | :--- |
-| **01** | Hola Mundo Dual (Blink) | Python / C++ | [Ver Práctica 1](./Practica_01_Hola_Mundo/) |
+| **01** | Hola Mundo Dual (Blink) | Python / C++ | [Ver Práctica 1](./Practica_01/) |
 | **02** | Control GPIO: Semáforo | Python / C++ | [Ver Práctica 2](./Practica_02_Semaforo/) |
 | **03** | Interrupciones: Juego de Reflejos | C++ | [Ver Práctica 3](./Practica_03_Interrupciones/) |
 | **...** | ... | ... | ... |
