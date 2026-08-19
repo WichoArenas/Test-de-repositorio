@@ -14,7 +14,7 @@
 ![Diagrama de conexión](./diagrama.png)
 
 **🔗 Enlace a la simulación en Wokwi:**
-[Haz clic aquí para ver y correr la simulación](https://wokwi.com/tu_enlace_aqui)
+[Haz clic aquí para ver y correr la simulación](https://wokwi.com/projects/300504213470839309)
 
 ## 💻 Explicación del Código
 **MicroPython (`main.py`):**
