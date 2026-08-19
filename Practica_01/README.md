@@ -11,7 +11,7 @@
 ## 🔌 Diagrama de Conexión y Simulación
 *(Inserta aquí una captura de pantalla de tu circuito en Wokwi o tu diagrama físico)*
 
-![Diagrama de conexión](./ruta_de_tu_imagen.png)
+![Diagrama de conexión](./diagrama.png)
 
 **🔗 Enlace a la simulación en Wokwi:**
 [Haz clic aquí para ver y correr la simulación](https://wokwi.com/tu_enlace_aqui)
